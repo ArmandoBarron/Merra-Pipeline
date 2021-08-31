@@ -1,0 +1,4 @@
+MERRA2_400.statD_2d_slv_Nx.20180721.csv
+MERRA2_400.statD_2d_slv_Nx.20161227.csv
+MERRA2_200.statD_2d_slv_Nx.19960327.csv
+MERRA2_200.statD_2d_slv_Nx.19980419.csv
